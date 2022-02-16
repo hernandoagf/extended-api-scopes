@@ -1,5 +1,3 @@
-# **Plugin Name** Plugin
+# Extended API Key Scopes Plugin
 
-**Plugin Summary**
-
-For more information, please see: **url to meta topic**
+A small Discourse plugin for extending API key scopes
