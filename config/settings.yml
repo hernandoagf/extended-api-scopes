@@ -1,4 +1,4 @@
 plugins:
-  plugin_name_enabled:
+  extended_api_scopes_enabled:
     default: true
     client: true

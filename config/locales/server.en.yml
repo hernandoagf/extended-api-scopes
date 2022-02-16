@@ -1,1 +1,3 @@
 en:
+  site_settings:
+    extended_api_scopes_enabled: "Enable extended API scopes"
